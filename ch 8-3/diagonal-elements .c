@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*
- Write a Program to find the sum of diagonal elements from a given 2D array.
+ Write a Program to find the sum of diagonal elements from a given 2D array.z
 */
 main()
 {
